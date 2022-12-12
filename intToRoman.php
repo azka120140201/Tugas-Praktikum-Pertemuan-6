@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>intToRoman</title>
-</head>
-<body>
-
 <?php 
   //Azka Hafidz Asianto
   //120140201
@@ -52,6 +43,3 @@
   //Echo will be 'LVIII'
   echo intToRoman(58);
 ?>
-
-</body>
-</html>
